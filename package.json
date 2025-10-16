@@ -1,0 +1,17 @@
+{
+  "name": "dynamic_profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "APIPAWE KATOTO DANIEL",
+  "license": "MIT",
+  "dependencies": {
+    "connect-timeout": "^1.9.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
